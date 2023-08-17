@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+.bash_history
+.cache
+.ipython
+.jupyter
+.local
+
+
+
+# local env files
+.env*.*
